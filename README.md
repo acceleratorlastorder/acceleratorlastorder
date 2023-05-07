@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=acceleratorlastorder)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acceleratorlastorder&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=acceleratorlastorder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acceleratorlastorder&layout=compact&show_icons=true&theme=radical)
 
 <!--
 **acceleratorlastorder/acceleratorlastorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
